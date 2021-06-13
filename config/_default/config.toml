@@ -1,6 +1,6 @@
-baseurl = "/"
+baseurl = "https://simmranvermaa.github.io/doks/"
 canonifyURLs = false
-disableAliases = true
+disableAliases = false
 disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
