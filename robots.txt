@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://simmranvermaa.github.io/doks/sitemap.xml
+Sitemap: simmranvermaa.github.io/doks/sitemap.xml
