@@ -1,4 +1,4 @@
-baseurl = "simmranvermaa.github.io/doks/"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = false
 disableHugoGeneratorInject = true
